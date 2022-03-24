@@ -1,0 +1,41 @@
+.bar {
+  height: 100%;
+  width: 90px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: black;
+  padding-top: 10px;
+}
+.bar a {
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.main {
+  margin-left: 90px;
+  font-size: 18px; 
+  padding: 0px 10px;
+}
+
+
+.row {
+margin-left: 90px;
+display: flex;
+  }
+.desc {
+  font-size: 32px;
+
+  text-align: right;
+
+
+}
+
+img {
+  max-width: 50%;
+  max-height: auto;
+}
+hr  {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
